@@ -462,32 +462,6 @@
       "logo": "https://i.postimg.cc/KzjPtYWY/imdb.png",
       "contentLanguage": ["en", "hi"]
     },
-    { 
-      "id": "playimdb2",
-      "name": "PlayIMDb (Movies)",
-      "description": "High-Speed Direct Streaming for Movies (IMDb ID Extract)",
-      "version": "1.1.4",
-      "author": "Mukesh",
-      "supportedTypes": ["movie"],
-      "filename": "providers/playimdb.js",
-      "enabled": true,
-      "formats": ["mp4", "mkv", "m3u8"],
-      "logo": "https://i.postimg.cc/KzjPtYWY/imdb.png",
-      "contentLanguage": ["en", "hi"]
-    },
-    { 
-      "id": "playimdb_series2",
-      "name": "PlayIMDb Premium (Series)",
-      "description": "High-Speed Direct Streaming for TV Shows (StreamIMDb Extract)",
-      "version": "1.2.1",
-      "author": "Mukesh",
-      "supportedTypes": ["series"],
-      "filename": "providers/playimdb_v2.js",
-      "enabled": true,
-      "formats": ["mp4", "mkv", "m3u8"],
-      "logo": "https://i.postimg.cc/KzjPtYWY/imdb.png",
-      "contentLanguage": ["en", "hi"]
-    },
     {
       "id": "purstream",
       "name": "Purstream",
@@ -629,7 +603,7 @@
       "enabled": true,
       "formats": ["mp4", "m3u8"],
       "logo": "https://i.postimg.cc/1tHrBvzs/vixsrc.png",
-      "contentLanguage": ["en", "Ita"]
+      "contentLanguage": ["en", "it"]
     },
     {
       "id": "onlykdrama",
