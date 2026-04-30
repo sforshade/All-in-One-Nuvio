@@ -3,7 +3,8 @@
   "name": "D3adlyRocket",
   "version": "1.0.0",
   "resources": ["stream"],
-  "types": ["movie","tv"],
+  "types": ["movie","series"],
+  "idPrefixes": ["tt", "tmdb"],
   "scrapers": [
     {
       "id": "hianime",
